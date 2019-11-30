@@ -1,11 +1,26 @@
 {
   "name": "@fjbo-net/merge-objects",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Merges properties of two different objects.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjbo-net/js-merge-objects.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francisco Javier Becerra-Ortiz",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fjbo-net/js-merge-objects/issues"
+  },
+  "homepage": "https://github.com/fjbo-net/js-merge-objects#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-header": "^2.0.9",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-strip-comments": "^2.5.2"
+  },
+  "year": 2019
 }

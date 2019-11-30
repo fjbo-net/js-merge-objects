@@ -10,6 +10,8 @@ npm-debug.log
 
 
 # MISC
+dist
+test
 vendor
 temp
 tmp
